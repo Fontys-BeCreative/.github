@@ -1,9 +1,9 @@
-# Fontys BeCreative Minor
+# Fontys BeCreative
 
-Welcome to the central GitHub Organization for the Fontys BeCreative Minor.
+Welcome to the GitHub Organization for the Fontys BeCreative Minor.
 
 <p align="center">
-  <img src="[https://i0.wp.com/minor-becreative.nl/wp-content/uploads/2020/11/Logo1_BeCreativeMinor_v2_BG-trans_Website.png](https://i0.wp.com/minor-becreative.nl/wp-content/uploads/2020/11/Logo1_BeCreativeMinor_v2_BG-trans_Website.png)" alt="Fontys BeCreative Logo" width="350" />
+<img width="200" height="200" alt="Logo1_BeCreativeMinor_v2_BG-trans_Website-4245028338" src="https://github.com/user-attachments/assets/863067c4-892e-4f6f-903b-babdce71fc38" />
 </p>
 
 ---
